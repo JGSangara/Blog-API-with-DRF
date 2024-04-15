@@ -1,4 +1,4 @@
-﻿# Blog-API-with-DRF
+﻿# Blog API with Django Rest API
  Django RestAPI Blog with CRUD and Login/Register Functionalities.
 
 ![Dashboard screenshot](https://github.com/JGSangara/Blog-API-with-DRF/blob/main/static/screencapture-127-0-0-1-8000-swagger-2023-01-09-18_03_06.png)
